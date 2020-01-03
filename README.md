@@ -1,7 +1,7 @@
 # MovieSearch-App
 A movie Search app using the IMDB API 
-#javascript
+# javascript
 fetch Api
 arrow functions
-#html
+# html
 bootstrap - the bootswatch libray
